@@ -1,1 +1,2 @@
-# Pokemon_Master_Persuit
+# Pokémon: Master's Persuit
+Proyecto final: Trainer's VR
